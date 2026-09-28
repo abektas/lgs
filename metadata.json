@@ -1,0 +1,6 @@
+{
+  "name": "LGS AI Koçu - Akıllı Sınav ve Çalışma Asistanı",
+  "description": "LGS 8. sınıf öğrencileri için yapay zeka destekli yeni nesil soru çözüm asistanı, MEB müfredatına uygun akıllı çalışma programı, deneme analizi ve hedef lise takibi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
